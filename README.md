@@ -1,16 +1,8 @@
-# aula_get_rotas_simples
+# TELA DE DETALHES FEITA EM FLUTTER
 
-A new Flutter project.
+## Apresento aqui uma tela de Detalhes onde é direcionado para outra tela que têm um botão de voltar.
 
-## Getting Started
+![image](https://github.com/Tiagosena21/Tela-detalhes/assets/82514114/f16d76bf-ef7b-4a7b-9422-8b5c36425d16)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
